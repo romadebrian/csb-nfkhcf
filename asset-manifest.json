@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://romadebrian.github.io/csb-nfkhcf/static/js/main.8390a7b6.chunk.js",
+    "main.js.map": "https://romadebrian.github.io/csb-nfkhcf/static/js/main.8390a7b6.chunk.js.map",
+    "runtime-main.js": "https://romadebrian.github.io/csb-nfkhcf/static/js/runtime-main.ef5658ae.js",
+    "runtime-main.js.map": "https://romadebrian.github.io/csb-nfkhcf/static/js/runtime-main.ef5658ae.js.map",
+    "static/js/2.2eea02fd.chunk.js": "https://romadebrian.github.io/csb-nfkhcf/static/js/2.2eea02fd.chunk.js",
+    "static/js/2.2eea02fd.chunk.js.map": "https://romadebrian.github.io/csb-nfkhcf/static/js/2.2eea02fd.chunk.js.map",
+    "index.html": "https://romadebrian.github.io/csb-nfkhcf/index.html",
+    "static/js/2.2eea02fd.chunk.js.LICENSE.txt": "https://romadebrian.github.io/csb-nfkhcf/static/js/2.2eea02fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5658ae.js",
+    "static/js/2.2eea02fd.chunk.js",
+    "static/js/main.8390a7b6.chunk.js"
+  ]
+}
